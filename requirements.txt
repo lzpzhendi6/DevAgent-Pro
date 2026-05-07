@@ -1,0 +1,10 @@
+langgraph
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-anthropic
+python-dotenv
+rich
+loguru
+pydantic
